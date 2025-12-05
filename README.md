@@ -30,3 +30,8 @@ Get best exchange to buy/sell certain quantity of BTCUSD
 
 ## tests
 includes test file at each checkpoint of though process
+
+
+## future scope
+- centralized logging to find bugs
+- pick rate limit, exchanges,product, number levels needed,  url from config
